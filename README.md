@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## Estudante
+## Helder Razif
 <div>
   <img src="img/Helder.jpg" alt="Helder Razif" width="300" height="300">
 </div>
