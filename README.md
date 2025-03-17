@@ -12,7 +12,5 @@
 
 ## �� Estudante
 <div>
-  <img src="img/Helder.jpg">Helder Razif</img>
+  <img src="img/Helder.jpg" alt="Helder Razif" width="225" height="300">Helder Razif</img>
 </div>
-
-// Código omitido. 
